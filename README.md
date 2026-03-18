@@ -88,7 +88,7 @@ Detailed installation instructions coming soon.
 
 If you use this pipeline, please cite:
 
-> Oliver, J.J.O. (2026). Divergent Genomic Strategies Underlie Microbial Iodine
+> Sunbare-funto, O.J. (2026). Divergent Genomic Strategies Underlie Microbial Iodine
 > Transformation and Persistence in a Multi-Contaminant Subsurface Environment.
 > PhD Dissertation, Howard University.
 
